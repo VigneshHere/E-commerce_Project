@@ -1,35 +1,22 @@
-## Run Locally
+# E-Commerce UI Challenge
 
-Clone the project
+## Live Demo
+[Click here to view](https://vigneshhere.github.io/E-commerce_Project/)
 
+## Layout Approach
+The layout was built using React and Tailwind CSS (or mention the stack you used). Component-based structure with reusable layout blocks.
+
+## Responsiveness
+Designed with mobile-first principles. Breakpoints were handled using Tailwind's utility classes to ensure the layout adapts well on all devices (mobile, tablet, and desktop).
+
+## Project Structure
+- `/src/components` – Reusable UI elements
+- `/src/pages` – Screens for layout rendering
+- `/public` – Static assets
+
+## How to Run Locally
 ```bash
-  git clone https://dredsoft-admin@bitbucket.org/dredsoft/ecommerce.git
-```
-
-Go to the project directory
-
-```bash
-  cd eCommerce
-```
-
-Install dependencies
-
-```bash
-  npm install
-
-  or 
-
-  npm install react-material-ui-carousel --save --legacy-peer-deps
-```
-
-Start the server
-
-```bash
-  npm start
-```
-
-The server should now be running. You can access the application by opening a web browser and entering the following URL:
-
-```bash
-  http://localhost:3000
-```
+git clone https://github.com/VigneshHere/E-commerce_Project/tree/main
+cd yourrepo
+npm install
+npm run dev
