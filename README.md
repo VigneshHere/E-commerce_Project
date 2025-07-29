@@ -3,6 +3,9 @@
 ## Live Demo
 [Click here to view](https://vigneshhere.github.io/E-commerce_Project/)
 
+## Note
+The layout was implemented using React with Bootstrap, following a component-based approach. Created a reusable layout component and integrated it across all pages using react-router-dom for smooth navigation. Responsiveness was ensured using Bootstrap’s grid system to maintain consistent behavior across devices.
+
 ## Project Summary
 This project is a frontend-only E-Commerce UI developed using React, Bootstrap, and React Router DOM. The goal was to build and demonstrate key e-commerce pages with navigation and responsiveness.
 
@@ -23,3 +26,4 @@ git clone https://github.com/VigneshHere/E-commerce_Project/tree/main
 cd yourrepo
 npm install
 npm run dev
+
